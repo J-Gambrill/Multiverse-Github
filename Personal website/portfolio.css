@@ -1,6 +1,6 @@
 body {
     display: flex;
-    background-color: rgb(57, 96, 92);
+    background-color: #73806e;
     margin: 0%;
     flex-direction: column;
 
@@ -98,3 +98,58 @@ body {
     font-size: 2.5rem;
     color: white;
 }
+
+
+.pgheaderbx{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 7%;
+}
+
+.pgheader{
+    display: flex;
+    justify-content: center;
+    background-color: #DCCEB0;
+    width: 170px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5rem;
+    border-style: solid;
+    border-color:darkgrey;
+    border-radius: 30px;
+    border-width: 5px;
+    padding: 5px; 
+}
+
+.titles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.other{
+    display: flex;
+    justify-content: center;
+    background-color: #DCCEB0;
+    width: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+    border-color:darkgrey;
+    border-radius: 30px;
+    border-width: 5px;
+    padding: 5px; 
+}
+
+.programming{
+    display: flex;
+    justify-content: center;
+    background-color: #DCCEB0;
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+    border-color:darkgrey;
+    border-radius: 30px;
+    border-width: 5px;
+    padding: 5px; 
+}
+
